@@ -1,4 +1,4 @@
-# Run HyperExecute and LT Standard Grid Benchmarking on TestMu AI (Formerly LambdaTest)
+﻿# Run HyperExecute and LT Standard Grid Benchmarking on TestMu AI (Formerly LambdaTest)
 
 <p align="center">
   <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
@@ -17,9 +17,9 @@ With TestMu AI (Formerly LambdaTest), you can run HyperExecute and LT Standard G
 
 ### Prerequisites
 
-- Your TestMu AI (Formerly LambdaTest) [Username and Access Key](https://www.testmuai.com/support/docs/hyperexecute-how-to-get-my-username-and-access-key/).
+- Your TestMu AI (Formerly LambdaTest) Username and Access Key.
 - Python installed on your system.
-- For HyperExecute runs: the [HyperExecute CLI](https://www.testmuai.com/support/docs/hyperexecute-cli-run-tests-on-hyperexecute-grid/) and a [HyperExecute YAML](https://www.testmuai.com/support/docs/hyperexecute-yaml-version0.2/) file.
+- For HyperExecute runs: the HyperExecute CLI and a HyperExecute YAML file.
 
 ### Setup
 
